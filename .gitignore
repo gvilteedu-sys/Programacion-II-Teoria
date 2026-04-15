@@ -1,0 +1,7 @@
+#Carpetas del entornos Virtuales
+venv/
+env/
+
+#Archivos Cacheados de Python
+__pychache__/
+*.pyc
